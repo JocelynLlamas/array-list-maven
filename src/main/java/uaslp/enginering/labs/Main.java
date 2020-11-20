@@ -22,7 +22,6 @@ public class Main {
             System.out.println(student.getName());
         }
 
-
         ArrayList<String> cadenas = new ArrayList<>();
 
         cadenas.add("Uresti");
@@ -52,3 +51,4 @@ public class Main {
         }
     }
 }
+
